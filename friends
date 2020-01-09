@@ -1,0 +1,8 @@
+friends = {'name' : 'Friends', 'genre' : 'sitcom', 'no_of_seasons' : '10'} 
+friends 
+friends = {'no_of_seasons'}
+friends = {'no_of_episodes' : '236'}
+friends = 
+friends = {'creators' : 'David Crane','Martha Kaufman'} 
+david = friends 
+friends =
